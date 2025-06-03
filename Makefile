@@ -1,3 +1,3 @@
-TARGET=MachineLearning
+TARGET=report
 
 include Makefile.include
